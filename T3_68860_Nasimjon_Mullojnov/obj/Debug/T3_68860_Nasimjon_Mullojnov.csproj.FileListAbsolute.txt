@@ -1,0 +1,22 @@
+C:\Users\Nasim Mulladzhanov\Desktop\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\bin\Debug\T3_68860_Nasimjon_Mullojnov.exe.config
+C:\Users\Nasim Mulladzhanov\Desktop\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\bin\Debug\T3_68860_Nasimjon_Mullojnov.exe
+C:\Users\Nasim Mulladzhanov\Desktop\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\bin\Debug\T3_68860_Nasimjon_Mullojnov.pdb
+C:\Users\Nasim Mulladzhanov\Desktop\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.csproj.AssemblyReference.cache
+C:\Users\Nasim Mulladzhanov\Desktop\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.Form1.resources
+C:\Users\Nasim Mulladzhanov\Desktop\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.Properties.Resources.resources
+C:\Users\Nasim Mulladzhanov\Desktop\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.csproj.GenerateResource.cache
+C:\Users\Nasim Mulladzhanov\Desktop\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.csproj.CoreCompileInputs.cache
+C:\Users\Nasim Mulladzhanov\Desktop\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.exe
+C:\Users\Nasim Mulladzhanov\Desktop\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.pdb
+C:\Users\Nasim Mulladzhanov\Desktop\windows OOP\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.csproj.AssemblyReference.cache
+C:\Users\Nasim Mulladzhanov\Desktop\windows OOP\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.Form1.resources
+C:\Users\Nasim Mulladzhanov\Desktop\windows OOP\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.Form2.resources
+C:\Users\Nasim Mulladzhanov\Desktop\windows OOP\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.Form3.resources
+C:\Users\Nasim Mulladzhanov\Desktop\windows OOP\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.Properties.Resources.resources
+C:\Users\Nasim Mulladzhanov\Desktop\windows OOP\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.csproj.GenerateResource.cache
+C:\Users\Nasim Mulladzhanov\Desktop\windows OOP\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.csproj.CoreCompileInputs.cache
+C:\Users\Nasim Mulladzhanov\Desktop\windows OOP\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.exe
+C:\Users\Nasim Mulladzhanov\Desktop\windows OOP\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\obj\Debug\T3_68860_Nasimjon_Mullojnov.pdb
+C:\Users\Nasim Mulladzhanov\Desktop\windows OOP\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\bin\Debug\T3_68860_Nasimjon_Mullojnov.exe.config
+C:\Users\Nasim Mulladzhanov\Desktop\windows OOP\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\bin\Debug\T3_68860_Nasimjon_Mullojnov.exe
+C:\Users\Nasim Mulladzhanov\Desktop\windows OOP\T3_68860_Nasimjon_Mullojnov\T3_68860_Nasimjon_Mullojnov\bin\Debug\T3_68860_Nasimjon_Mullojnov.pdb
